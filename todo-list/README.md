@@ -1,11 +1,11 @@
-# 📝 Simple Todo List (HTML & JavaScript)
+# Simple Todo List (HTML & JavaScript)
 
 A basic Todo List web app that lets users add and remove tasks dynamically using JavaScript.  
 This project is part of my learning progress in building interactive web applications.
 
 ---
 
-## 🚀 Features
+## Features
 - Add new tasks using the input field and **Add** button
 - Prevents empty tasks from being added, gives an alert message
 - Click on a task to remove it from the list
@@ -13,7 +13,7 @@ This project is part of my learning progress in building interactive web applica
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 - How to access HTML elements using `document.getElementById()`
 - How to dynamically create and append elements to the DOM
 - How to use event listeners for interactivity
@@ -21,10 +21,12 @@ This project is part of my learning progress in building interactive web applica
 
 ---
 
-## 🧩 How to Run
+## How to Run
 1. Clone this repository or download it as a ZIP file.
 2. Open the `index.html` file in any modern browser.
 3. Type a task, click **Add**, and watch it appear in the list.
 4. Click a task to remove it.
 
 ---
+## Here is a screen shot of what it looks like
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/38965dc9-2148-4470-822d-0c23bb82d2c3" />
