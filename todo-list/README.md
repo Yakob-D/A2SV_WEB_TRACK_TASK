@@ -29,4 +29,4 @@ This project is part of my learning progress in building interactive web applica
 
 ---
 ## Here is a screen shot of what it looks like
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/38965dc9-2148-4470-822d-0c23bb82d2c3" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/e880afd4-4dd9-419f-8525-af87751e344a" />
